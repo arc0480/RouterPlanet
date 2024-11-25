@@ -7,7 +7,7 @@ accessible: true
 alwaysUnlocked: true
 
 #デフォルトコア
-defaultCore: CoreSeeds
+#defaultCore: CoreSeeds
 
 allowLaunchToNumbered: true
 
