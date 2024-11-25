@@ -19,7 +19,7 @@ isFirstTier: true
 squareSprite: false
 
 requirements: [
-    Seed/600
+    copper/600
 ]
 //テックツリーを追加
 research: {
