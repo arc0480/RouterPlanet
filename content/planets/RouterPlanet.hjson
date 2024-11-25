@@ -1,4 +1,4 @@
-#planetの表示名
+//planetの表示名
 localizedName: RouterPlanet
 
 parent: sun
@@ -6,20 +6,20 @@ parent: sun
 accessible: true
 alwaysUnlocked: true
 
-#デフォルトコア
-#defaultCore: CoreSeeds
+//デフォルトコア
+//defaultCore: CoreSeeds
 
 allowLaunchToNumbered: true
 
-#資源持ち込み設定
+//資源持ち込み設定
 allowLaunchLoadout: true
 
 sectorSeed: 15
 startSector: 3
 sectorSize: 2
 
-#設計図を使ってセクターへ出発
+//設計図を使ってセクターへ出発
 allowLaunchSchematics: true
 
-#他セクターへ同時侵攻の設定
+//他セクターへ同時侵攻の設定
 allowWaveSimulation: true
